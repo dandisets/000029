@@ -1,0 +1,9 @@
+2020-10-21T20:51:50-0400 [INFO    ] dandi Traversing remote dandisets (000029) recursively
+2020-10-21T20:51:50-0400 [INFO    ] backups2datalad.py Updating metadata file
+2020-10-21T20:51:51-0400 [WARNING ] dandi Ran into an empty item: {'_id': '5f244abe79d3faee686c7495', '_modelType': 'item', 'baseParentId': '5e59bb0af19e820ab6ea6c62', 'baseParentType': 'collection', 'created': '2020-07-31T16:45:50.199000+00:00', 'creatorId': '5d978d9ecc10d1bc31040bc9', 'description': '', 'folderId': '5f244abd79d3faee686c7494', 'meta': {}, 'name': 'sub-759711149_probe-792602650_ecephys.nwb', 'size': 0, 'updated': '2020-07-31T16:45:50.199000+00:00'}
+2020-10-21T20:51:51-0400 [INFO    ] backups2datalad.py Syncing asset /sub-RAT123/sub-RAT123.nwb
+2020-10-21T20:51:51-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T20:51:51-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/39/ed/39edde30dd9248c9a118bc25b5135f6e -> /mnt/backup/dandi/dandisets/000029/sub-RAT123/sub-RAT123.nwb
+2020-10-21T20:51:51-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T20:51:52-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/39/ed/39edde30dd9248c9a118bc25b5135f6e?versionId=O0ugxmLmDQALNrVLnMdJHQ5s1Q8q.Pqf to asset
+2020-10-21T20:51:52-0400 [INFO    ] backups2datalad.py Commiting changes
