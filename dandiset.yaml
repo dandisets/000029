@@ -24,7 +24,7 @@ assetsSummary:
     schemaKey: MeasurementTechniqueType
   - name: spike sorting technique
     schemaKey: MeasurementTechniqueType
-  numberOfBytes: 20716130
+  numberOfBytes: 20716128
   numberOfFiles: 5
   numberOfSubjects: 4
   schemaKey: AssetsSummary
@@ -39,8 +39,8 @@ assetsSummary:
   - BehavioralEvents
   - ElectrodeGroup
   - Units
-citation: Last, First (2021) Test dataset for development purposes (Version draft)
-  [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000029/draft
+citation: Last, First (2021) Test dataset for development purposes (Version 0.210712.1903)
+  [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000029/0.210712.1903
 contributor:
 - affiliation:
   - contactPoint: []
@@ -55,25 +55,39 @@ contributor:
   - dcite:Author
   - dcite:ContactPerson
   schemaKey: Person
+datePublished: '2021-07-12T19:03:53.460512'
 description: "Should be ignored by regular mortals, and not relied upon being static
   or ever correct.\nДолжно быть введено на Английском, но почему бы нам не проверить
   всю эту кухню \nΔЙקم๗あ\n"
+doi: 10.80507/dandi.000029/0.210712.1903
 ethicsApproval: []
-id: DANDI:000029/draft
+id: DANDI:000029/0.210712.1903
 identifier: DANDI:000029
 keywords:
 - development
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
-- https://api.dandiarchive.org/api/dandisets/000029/versions/draft/assets/
+- https://dandiarchive.s3.amazonaws.com/dandisets/000029/draft/assets.yaml
 name: Test dataset for development purposes
 protocol: []
+publishedBy:
+  endDate: '2021-07-12T19:03:53.460512'
+  id: urn:uuid:75cb3fa4-165c-44cf-8285-89c0213d5354
+  name: DANDI publish
+  schemaKey: PublishActivity
+  startDate: '2021-07-12T19:03:53.460512'
+  wasAssociatedWith:
+  - id: urn:uuid:b54047df-378d-4db1-bc26-7a2ca123dbfd
+    identifier: RRID:SCR_017571
+    name: DANDI API
+    schemaKey: Software
+    version: 0.1.0
 relatedResource: []
 repository: https://dandiarchive.org/
 schemaKey: Dandiset
 schemaVersion: 0.4.4
 studyTarget: []
-url: https://dandiarchive.org/dandiset/000029/draft
-version: draft
+url: https://dandiarchive.org/dandiset/000029/0.210712.1903
+version: 0.210712.1903
 wasGeneratedBy: []
