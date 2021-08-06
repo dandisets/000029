@@ -39,8 +39,8 @@ assetsSummary:
   - BehavioralEvents
   - ElectrodeGroup
   - Units
-citation: Last, First (2021) Test dataset for development purposes (Version draft)
-  [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000029/draft
+citation: Last, First (2021) Test dataset for development purposes (Version 0.210806.2112)
+  [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000029/0.210806.2112
 contributor:
 - affiliation:
   - contactPoint: []
@@ -55,25 +55,39 @@ contributor:
   - dcite:Author
   - dcite:ContactPerson
   schemaKey: Person
+datePublished: '2021-08-06T21:12:57.646335'
 description: "Should be ignored by regular mortals, and not relied upon being static
   or ever correct.\nДолжно быть введено на Английском, но почему бы нам не проверить
   всю эту кухню \nΔЙקم๗あ\nabcd"
+doi: 10.48324/dandi.000029/0.210806.2112
 ethicsApproval: []
-id: DANDI:000029/draft
+id: DANDI:000029/0.210806.2112
 identifier: DANDI:000029
 keywords:
 - development
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
-- https://api.dandiarchive.org/api/dandisets/000029/versions/draft/assets/
+- https://dandiarchive.s3.amazonaws.com/dandisets/000029/0.210806.2112/assets.yaml
 name: Test dataset for development purposes
 protocol: []
+publishedBy:
+  endDate: '2021-08-06T21:12:57.646335'
+  id: urn:uuid:6b34c7f5-9de3-49f8-b9d8-0a7dd0c98832
+  name: DANDI publish
+  schemaKey: PublishActivity
+  startDate: '2021-08-06T21:12:57.646335'
+  wasAssociatedWith:
+  - id: urn:uuid:8228c081-d12c-48a6-b6bb-651c053a7d4e
+    identifier: RRID:SCR_017571
+    name: DANDI API
+    schemaKey: Software
+    version: 0.1.0
 relatedResource: []
 repository: https://dandiarchive.org/
 schemaKey: Dandiset
 schemaVersion: 0.4.4
 studyTarget: []
-url: https://dandiarchive.org/dandiset/000029/draft
-version: draft
+url: https://dandiarchive.org/dandiset/000029/0.210806.2112
+version: 0.210806.2112
 wasGeneratedBy: []
