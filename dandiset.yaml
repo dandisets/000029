@@ -14,6 +14,9 @@ assetsSummary:
   - name: behavioral approach
     schemaKey: ApproachType
   dataStandard:
+  - identifier: RRID:SCR_016124
+    name: Brain Imaging Data Structure (BIDS)
+    schemaKey: StandardsType
   - identifier: RRID:SCR_015242
     name: Neurodata Without Borders (NWB)
     schemaKey: StandardsType
@@ -24,8 +27,8 @@ assetsSummary:
     schemaKey: MeasurementTechniqueType
   - name: spike sorting technique
     schemaKey: MeasurementTechniqueType
-  numberOfBytes: 20716124
-  numberOfFiles: 4
+  numberOfBytes: 20716176
+  numberOfFiles: 6
   numberOfSubjects: 4
   schemaKey: AssetsSummary
   species:
@@ -55,6 +58,7 @@ contributor:
   - dcite:Author
   - dcite:ContactPerson
   schemaKey: Person
+dateCreated: '2020-07-31T16:44:32.094000+00:00'
 description: "Should be ignored by regular mortals, and not relied upon being static
   or ever correct.\nДолжно быть введено на Английском, но почему бы нам не проверить
   всю эту кухню \nΔЙקم๗あ\nabcd"
