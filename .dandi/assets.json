@@ -799,6 +799,8 @@
 ],
 "dateModified":
 "2021-09-03T17:30:40.175497-04:00",
+"datePublished":
+"2021-09-15T16:46:57.412413+00:00",
 "digest":
 {
 "dandi:dandi-etag":
@@ -814,6 +816,34 @@
 "aefd90d7-3592-4d60-8c6d-ed5fa6356cab",
 "path":
 "sample.txt",
+"publishedBy":
+{
+"endDate":
+"2021-09-15T16:46:57.412413+00:00",
+"id":
+"urn:uuid:01348251-5f1e-49a4-be1b-373f801cd18b",
+"name":
+"DANDI publish",
+"schemaKey":
+"PublishActivity",
+"startDate":
+"2021-09-15T16:46:57.412413+00:00",
+"wasAssociatedWith":
+[
+{
+"id":
+"urn:uuid:a0296b9c-a804-4a11-8b35-01c092b74a84",
+"identifier":
+"RRID:SCR_017571",
+"name":
+"DANDI API",
+"schemaKey":
+"Software",
+"version":
+"0.1.0"
+}
+]
+},
 "repository":
 "https://dandiarchive.org/",
 "schemaKey":
@@ -883,6 +913,8 @@
 ],
 "dateModified":
 "2021-09-03T17:30:40.136608-04:00",
+"datePublished":
+"2021-09-15T16:46:57.412330+00:00",
 "digest":
 {
 "dandi:dandi-etag":
@@ -898,6 +930,34 @@
 "a896216a-4db7-461f-a86a-dc94e8b05752",
 "path":
 "sample.json",
+"publishedBy":
+{
+"endDate":
+"2021-09-15T16:46:57.412330+00:00",
+"id":
+"urn:uuid:c5b32efd-0968-4e68-a008-efea476a22ee",
+"name":
+"DANDI publish",
+"schemaKey":
+"PublishActivity",
+"startDate":
+"2021-09-15T16:46:57.412330+00:00",
+"wasAssociatedWith":
+[
+{
+"id":
+"urn:uuid:dea38be6-1724-4a9c-a652-bbdb0841d6f4",
+"identifier":
+"RRID:SCR_017571",
+"name":
+"DANDI API",
+"schemaKey":
+"Software",
+"version":
+"0.1.0"
+}
+]
+},
 "repository":
 "https://dandiarchive.org/",
 "schemaKey":
