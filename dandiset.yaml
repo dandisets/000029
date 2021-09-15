@@ -14,11 +14,11 @@ assetsSummary:
   - name: behavioral approach
     schemaKey: ApproachType
   dataStandard:
-  - identifier: RRID:SCR_016124
-    name: Brain Imaging Data Structure (BIDS)
-    schemaKey: StandardsType
   - identifier: RRID:SCR_015242
     name: Neurodata Without Borders (NWB)
+    schemaKey: StandardsType
+  - identifier: RRID:SCR_016124
+    name: Brain Imaging Data Structure (BIDS)
     schemaKey: StandardsType
   measurementTechnique:
   - name: surgical technique
@@ -42,8 +42,8 @@ assetsSummary:
   - BehavioralEvents
   - ElectrodeGroup
   - Units
-citation: Last, First (2021) Test dataset for development purposes (Version draft)
-  [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000029/draft
+citation: Last, First (2021) Test dataset for development purposes (Version 0.210915.1646)
+  [Data set]. DANDI archive. https://doi.org/10.48324/dandi.000029/0.210915.1646
 contributor:
 - affiliation:
   - contactPoint: []
@@ -59,25 +59,39 @@ contributor:
   - dcite:ContactPerson
   schemaKey: Person
 dateCreated: '2020-07-31T16:44:32.094000+00:00'
+datePublished: '2021-09-15T16:46:55.691630+00:00'
 description: "Should be ignored by regular mortals, and not relied upon being static
   or ever correct.\nДолжно быть введено на Английском, но почему бы нам не проверить
   всю эту кухню \nΔЙקم๗あ\nabcdef"
+doi: 10.48324/dandi.000029/0.210915.1646
 ethicsApproval: []
-id: DANDI:000029/draft
+id: DANDI:000029/0.210915.1646
 identifier: DANDI:000029
 keywords:
 - development
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
-- https://api.dandiarchive.org/api/dandisets/000029/versions/draft/assets/
+- https://dandiarchive.s3.amazonaws.com/dandisets/000029/0.210915.1646/assets.yaml
 name: Test dataset for development purposes
 protocol: []
+publishedBy:
+  endDate: '2021-09-15T16:46:55.691630+00:00'
+  id: urn:uuid:75801f16-f213-4a59-be73-037b62b0facf
+  name: DANDI publish
+  schemaKey: PublishActivity
+  startDate: '2021-09-15T16:46:55.691630+00:00'
+  wasAssociatedWith:
+  - id: urn:uuid:590f3ed3-55e1-496b-8e99-f6cdafa9f69f
+    identifier: RRID:SCR_017571
+    name: DANDI API
+    schemaKey: Software
+    version: 0.1.0
 relatedResource: []
 repository: https://dandiarchive.org/
 schemaKey: Dandiset
 schemaVersion: 0.4.4
 studyTarget: []
-url: https://dandiarchive.org/dandiset/000029/draft
-version: draft
+url: https://dandiarchive.org/dandiset/000029/0.210915.1646
+version: 0.210915.1646
 wasGeneratedBy: []
