@@ -75,7 +75,7 @@ manifestLocation:
 name: Test dataset for development purposes
 protocol: []
 relatedResource: []
-repository: https://dandiarchive.org/
+repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.0
 studyTarget: []
