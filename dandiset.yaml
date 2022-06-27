@@ -61,13 +61,14 @@ contributor:
 dateCreated: '2020-07-31T16:44:32.094000+00:00'
 description: "Should be ignored by regular mortals, and not relied upon being static
   or ever correct.\nДолжно быть введено на Английском, но почему бы нам не проверить
-  всю эту кухню \nΔЙקم๗あ\nabcdef"
+  всю эту кухню \nΔЙקم๗あ\nabcdefg"
 ethicsApproval: []
 id: DANDI:000029/draft
 identifier: DANDI:000029
 keywords:
 - development
-license: []
+license:
+- spdx:CC-BY-4.0
 manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/000029/versions/draft/assets/
 name: Test dataset for development purposes
