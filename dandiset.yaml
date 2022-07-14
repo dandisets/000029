@@ -14,11 +14,11 @@ assetsSummary:
   - name: behavioral approach
     schemaKey: ApproachType
   dataStandard:
-  - identifier: RRID:SCR_016124
-    name: Brain Imaging Data Structure (BIDS)
-    schemaKey: StandardsType
   - identifier: RRID:SCR_015242
     name: Neurodata Without Borders (NWB)
+    schemaKey: StandardsType
+  - identifier: RRID:SCR_016124
+    name: Brain Imaging Data Structure (BIDS)
     schemaKey: StandardsType
   measurementTechnique:
   - name: surgical technique
@@ -29,6 +29,7 @@ assetsSummary:
     schemaKey: MeasurementTechniqueType
   numberOfBytes: 20716164
   numberOfFiles: 5
+  numberOfSamples: 1
   numberOfSubjects: 4
   schemaKey: AssetsSummary
   species:
