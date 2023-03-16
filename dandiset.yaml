@@ -42,9 +42,9 @@ assetsSummary:
     schemaKey: SpeciesType
   variableMeasured:
   - ProcessingModule
-  - Units
   - ElectrodeGroup
   - BehavioralEvents
+  - Units
 citation: Last, First (2023) Test dataset for development purposes (Version draft)
   [Data set]. DANDI archive. https://doi.org/10.80507/dandi.123456/0.123456.1234
 contributor:
