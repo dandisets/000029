@@ -45,8 +45,8 @@ assetsSummary:
   - ElectrodeGroup
   - BehavioralEvents
   - Units
-citation: Last, First (2023) Test dataset for development purposes (Version draft)
-  [Data set]. DANDI archive. https://doi.org/10.80507/dandi.123456/0.123456.1234
+citation: Last, First; Test Org (2023) Test dataset for development purposes (Version
+  draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000029/draft
 contributor:
 - affiliation:
   - contactPoint: []
@@ -61,12 +61,20 @@ contributor:
   - dcite:Author
   - dcite:ContactPerson
   schemaKey: Person
+- contactPoint: []
+  email: michael.vandenburgh@kitware.com
+  identifier: https://ror.org/000000000
+  includeInCitation: true
+  name: Test Org
+  roleName:
+  - dcite:Sponsor
+  schemaKey: Organization
+  url: https://dandiarchive.org
 dateCreated: '2020-07-31T16:44:32.094000+00:00'
-datePublished: '2023-03-13T19:39:31.297243+00:00'
+datePublished: '2023-03-17T15:53:54.998334+00:00'
 description: "Should be ignored by regular mortals, and not relied upon being static
   or ever correct.\nДолжно быть введено на Английском, но почему бы нам не проверить
   всю эту кухню \nΔЙקم๗あ\nabcdefghi"
-doi: 10.80507/dandi.123456/0.123456.1234
 ethicsApproval: []
 id: DANDI:000029/draft
 identifier: DANDI:000029
@@ -79,13 +87,13 @@ manifestLocation:
 name: Test dataset for development purposes
 protocol: []
 publishedBy:
-  endDate: '2023-03-13T19:39:31.297243+00:00'
-  id: urn:uuid:18e171ab-1302-4188-93a1-027fadd3c889
+  endDate: '2023-03-17T15:53:54.998334+00:00'
+  id: urn:uuid:7014457b-89d9-4049-850a-5a8a6b6caed6
   name: DANDI publish
   schemaKey: PublishActivity
-  startDate: '2023-03-13T19:39:31.297243+00:00'
+  startDate: '2023-03-17T15:53:54.998334+00:00'
   wasAssociatedWith:
-  - id: urn:uuid:88636e81-c2b4-4d25-926b-56b53354df08
+  - id: urn:uuid:8d34d8be-72ed-42a7-9550-bffd9bf45ba2
     identifier: RRID:SCR_017571
     name: DANDI API
     schemaKey: Software
