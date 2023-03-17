@@ -46,7 +46,7 @@ assetsSummary:
   - BehavioralEvents
   - Units
 citation: Last, First; Test Org (2023) Test dataset for development purposes (Version
-  draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000029/draft
+  0.230317.1553) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000029/0.230317.1553
 contributor:
 - affiliation:
   - contactPoint: []
@@ -76,14 +76,14 @@ description: "Should be ignored by regular mortals, and not relied upon being st
   or ever correct.\nДолжно быть введено на Английском, но почему бы нам не проверить
   всю эту кухню \nΔЙקم๗あ\nabcdefghi"
 ethicsApproval: []
-id: DANDI:000029/draft
+id: DANDI:000029/0.230317.1553
 identifier: DANDI:000029
 keywords:
 - development
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
-- https://api.dandiarchive.org/api/dandisets/000029/versions/draft/assets/
+- https://dandiarchive.s3.amazonaws.com/dandisets/000029/0.230317.1553/assets.yaml
 name: Test dataset for development purposes
 protocol: []
 publishedBy:
@@ -103,6 +103,6 @@ repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.4.4
 studyTarget: []
-url: https://dandiarchive.org/dandiset/000029/draft
-version: draft
+url: https://dandiarchive.org/dandiset/000029/0.230317.1553
+version: 0.230317.1553
 wasGeneratedBy: []
