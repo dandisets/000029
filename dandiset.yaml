@@ -45,8 +45,8 @@ assetsSummary:
   - ElectrodeGroup
   - BehavioralEvents
   - Units
-citation: Last, First; Test Org (2023) Test dataset for development purposes (Version
-  draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000029/draft
+citation: Last, First; Test Org (2023) Test dataset for developsasdsment purposes
+  (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000029/draft
 contributor:
 - affiliation:
   - contactPoint: []
@@ -70,11 +70,11 @@ contributor:
   - dcite:Sponsor
   schemaKey: Organization
   url: https://dandiarchive.org
+- {}
 dateCreated: '2020-07-31T16:44:32.094000+00:00'
-datePublished: '2023-03-17T15:53:54.998334+00:00'
-description: "Should be ignored by regular mortals, and not relied upon being static
-  or ever correct.\nДолжно быть введено на Английском, но почему бы нам не проверить
-  всю эту кухню \nΔЙקم๗あ\nabcdefghi"
+description: "Should be ignored by regular mojgjhhj.  fjrtalddgdfgdfgs, and not relied
+  upon being static or ever correct.\nДолжно быть введено на Английском, но почему
+  бы нам не проверить всю эту кухню \nΔЙקم๗あ\nabcdefghi"
 ethicsApproval: []
 id: DANDI:000029/draft
 identifier: DANDI:000029
@@ -84,20 +84,8 @@ license:
 - spdx:CC-BY-4.0
 manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/000029/versions/draft/assets/
-name: Test dataset for development purposes
+name: Test dataset for developsasdsment purposes
 protocol: []
-publishedBy:
-  endDate: '2023-03-17T15:53:54.998334+00:00'
-  id: urn:uuid:7014457b-89d9-4049-850a-5a8a6b6caed6
-  name: DANDI publish
-  schemaKey: PublishActivity
-  startDate: '2023-03-17T15:53:54.998334+00:00'
-  wasAssociatedWith:
-  - id: urn:uuid:8d34d8be-72ed-42a7-9550-bffd9bf45ba2
-    identifier: RRID:SCR_017571
-    name: DANDI API
-    schemaKey: Software
-    version: 0.1.0
 relatedResource: []
 repository: https://dandiarchive.org
 schemaKey: Dandiset
