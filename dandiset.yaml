@@ -45,8 +45,8 @@ assetsSummary:
   - ElectrodeGroup
   - BehavioralEvents
   - Units
-citation: Last, First; Test Org (2023) Test dataset for development purposes (Version
-  draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000029/draft
+citation: Last, First; Test Org (2023) Test dataset for developsasdsment purposes
+  (Version 0.231017.1955) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000029/0.231017.1955
 contributor:
 - affiliation:
   - contactPoint: []
@@ -72,29 +72,29 @@ contributor:
   url: https://dandiarchive.org
 - {}
 dateCreated: '2020-07-31T16:44:32.094000+00:00'
-datePublished: '2023-10-17T19:59:46.254641+00:00'
+datePublished: '2023-10-17T19:55:39.966275+00:00'
 description: "Should be ignored by regular mojgjhhj.  fjrtalddgdfgdfgs, and not relied
   upon being static or ever correct.\nДолжно быть введено на Английском, но почему
   бы нам не проверить всю эту кухню \nΔЙקم๗あ\nabcdefghi"
 ethicsApproval: []
-id: DANDI:000029/draft
+id: DANDI:000029/0.231017.1955
 identifier: DANDI:000029
 keywords:
 - development
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
-- https://api.dandiarchive.org/api/dandisets/000029/versions/draft/assets/
-name: Test dataset for development purposes
+- https://dandiarchive.s3.amazonaws.com/dandisets/000029/0.231017.1955/assets.yaml
+name: Test dataset for developsasdsment purposes
 protocol: []
 publishedBy:
-  endDate: '2023-10-17T19:59:46.254641+00:00'
-  id: urn:uuid:2ba3bd08-9186-4b29-a035-d0e88dc489b7
+  endDate: '2023-10-17T19:55:39.966275+00:00'
+  id: urn:uuid:44a98aea-281a-43f6-81bb-026821ad36f8
   name: DANDI publish
   schemaKey: PublishActivity
-  startDate: '2023-10-17T19:59:46.254641+00:00'
+  startDate: '2023-10-17T19:55:39.966275+00:00'
   wasAssociatedWith:
-  - id: urn:uuid:bae9d8d1-9e95-4c52-89b6-d3c75a4f3cb6
+  - id: urn:uuid:09c9b12c-3513-409e-baa3-ae80ed88fb40
     identifier: RRID:SCR_017571
     name: DANDI API
     schemaKey: Software
@@ -104,6 +104,6 @@ repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.4.4
 studyTarget: []
-url: https://dandiarchive.org/dandiset/000029/draft
-version: draft
+url: https://dandiarchive.org/dandiset/000029/0.231017.1955
+version: 0.231017.1955
 wasGeneratedBy: []
