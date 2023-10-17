@@ -70,9 +70,13 @@ contributor:
   - dcite:Sponsor
   schemaKey: Organization
   url: https://dandiarchive.org
-- {}
+- affiliation: []
+  includeInCitation: false
+  name: Smith, John
+  roleName: []
+  schemaKey: Person
 dateCreated: '2020-07-31T16:44:32.094000+00:00'
-datePublished: '2023-10-17T19:59:46.254641+00:00'
+datePublished: '2023-10-17T20:04:31.323464+00:00'
 description: "Should be ignored by regular mojgjhhj.  fjrtalddgdfgdfgs, and not relied
   upon being static or ever correct.\nДолжно быть введено на Английском, но почему
   бы нам не проверить всю эту кухню \nΔЙקم๗あ\nabcdefghi"
@@ -88,13 +92,13 @@ manifestLocation:
 name: Test dataset for development purposes
 protocol: []
 publishedBy:
-  endDate: '2023-10-17T19:59:46.254641+00:00'
-  id: urn:uuid:2ba3bd08-9186-4b29-a035-d0e88dc489b7
+  endDate: '2023-10-17T20:04:31.323464+00:00'
+  id: urn:uuid:6de00629-f6fd-4851-a8fa-26b057be89bb
   name: DANDI publish
   schemaKey: PublishActivity
-  startDate: '2023-10-17T19:59:46.254641+00:00'
+  startDate: '2023-10-17T20:04:31.323464+00:00'
   wasAssociatedWith:
-  - id: urn:uuid:bae9d8d1-9e95-4c52-89b6-d3c75a4f3cb6
+  - id: urn:uuid:3e7b7f60-a2b2-40ad-b414-a44396bda5df
     identifier: RRID:SCR_017571
     name: DANDI API
     schemaKey: Software
