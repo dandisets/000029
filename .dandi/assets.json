@@ -30,6 +30,8 @@
 ],
 "dateModified":
 "2023-03-16T11:50:06.357489-04:00",
+"datePublished":
+"2023-10-17T19:55:40.385748+00:00",
 "digest":
 {
 "dandi:dandi-etag":
@@ -45,6 +47,34 @@
 "1ab0d4ff-1231-48c9-a8a3-8145552830a4",
 "path":
 "bar-renamed-3334",
+"publishedBy":
+{
+"endDate":
+"2023-10-17T19:55:40.385748+00:00",
+"id":
+"urn:uuid:3e54cab1-f8f8-4f0d-89ea-d80d2613146d",
+"name":
+"DANDI publish",
+"schemaKey":
+"PublishActivity",
+"startDate":
+"2023-10-17T19:55:40.385748+00:00",
+"wasAssociatedWith":
+[
+{
+"id":
+"urn:uuid:b4ddd940-42a6-455e-aaf6-f3573797dcba",
+"identifier":
+"RRID:SCR_017571",
+"name":
+"DANDI API",
+"schemaKey":
+"Software",
+"version":
+"0.1.0"
+}
+]
+},
 "schemaKey":
 "Asset",
 "schemaVersion":
@@ -85,7 +115,7 @@
 "dandi2"
 },
 "modified":
-"2023-09-27T17:08:32.061817+00:00",
+"2023-10-17T19:55:40.394757+00:00",
 "path":
 "bar-renamed-3334",
 "size":
