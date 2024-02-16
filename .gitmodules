@@ -1,0 +1,4 @@
+[submodule "sub-randomzarrlike/sub-randomzarrlike_junk.zarr"]
+	path = sub-randomzarrlike/sub-randomzarrlike_junk.zarr
+	url = https://github.com/dandizarrs/fd6ab3ea-cff6-4006-a9bf-acfa5d983985
+	datalad-id = 3b5c6218-75ff-4f34-b020-0c5c5e38f623
