@@ -46,11 +46,11 @@ assetsSummary:
   - ElectrodeGroup
   - BehavioralEvents
   - Units
-citation: VanDenburghx, Mike; Test Org; Last, First (2024) Test dataset for development
+citation: VanDenburgh, Mike; Test Org; Last, First (2024) Test dataset for development
   purposes (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000029/draft
 contributor:
 - includeInCitation: true
-  name: VanDenburghx, Mike
+  name: VanDenburgh, Mike
   roleName:
   - dcite:ContactPerson
   schemaKey: Person
