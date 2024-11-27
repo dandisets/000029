@@ -46,28 +46,9 @@ assetsSummary:
   - ElectrodeGroup
   - BehavioralEvents
   - Units
-citation: VanDenburgh, Mike; Test Org; Last, First (2024) Test dataset for development
+citation: Last, First; Test Org; lijasldkfj lkajsdlkfj (2024) Test dataset for development
   purposes (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000029/draft
 contributor:
-- includeInCitation: true
-  name: VanDenburgh, Mike
-  roleName:
-  - dcite:ContactPerson
-  schemaKey: Person
-- contactPoint: []
-  email: michael.vandenburgh@kitware.com
-  identifier: https://ror.org/000000000
-  includeInCitation: true
-  name: Test Org
-  roleName:
-  - dcite:Sponsor
-  schemaKey: Organization
-  url: https://dandiarchive.org
-- affiliation: []
-  includeInCitation: false
-  name: Smithy, John
-  roleName: []
-  schemaKey: Person
 - affiliation:
   - contactPoint: []
     includeInCitation: false
@@ -81,10 +62,28 @@ contributor:
   - dcite:Author
   - dcite:ContactPerson
   schemaKey: Person
+- contactPoint: []
+  email: michael.vandenburgh@kitware.com
+  identifier: https://ror.org/000000000
+  includeInCitation: true
+  name: Test Org
+  roleName:
+  - dcite:Sponsor
+  schemaKey: Organization
+  url: https://dandiarchive.org
+- affiliation: []
+  includeInCitation: false
+  name: Smith, John
+  roleName: []
+  schemaKey: Person
+- includeInCitation: true
+  name: lijasldkfj lkajsdlkfj
+  schemaKey: Person
+  url: alksdjflkajsdlfkjasdlkjlkj
 dateCreated: '2020-07-31T16:44:32.094000+00:00'
 description: "Should be ignored by regular mojgjhhj.  fjrtalddgdfgdfgs, and not relied
   upon being static or ever correct.\nДолжно быть введено на Английском, но почему
-  бы нам не проверить всю эту кухню \nΔЙקم๗あ\nabcdefghi"
+  бы нам не проверить всю эту кухню \nΔЙקم๗あ\nabc"
 ethicsApproval: []
 id: DANDI:000029/draft
 identifier: DANDI:000029
