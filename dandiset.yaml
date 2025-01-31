@@ -47,8 +47,8 @@ assetsSummary:
   - ElectrodeGroup
   - BehavioralEvents
   - Units
-citation: Last, First; Test Org (2025) Test dataset for development purposes (Version
-  draft) [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/000029/draft
+citation: Last, First; Test Org; Turing, Alan (2025) Test dataset for development
+  purposes (Version draft) [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/000029/draft
 contributor:
 - affiliation:
   - identifier: https://ror.org/000000000
@@ -74,10 +74,15 @@ contributor:
 - affiliation:
   - name: https://ror.org/000000001
     schemaKey: Affiliation
+  - name: Department of Foo
+    schemaKey: Affiliation
   email: lkajsldkjf
   includeInCitation: false
   name: spongebob, squarepants
   roleName: []
+  schemaKey: Person
+- includeInCitation: true
+  name: Turing, Alan
   schemaKey: Person
 dateCreated: '2020-07-31T16:44:32.094000+00:00'
 description: "Should be ignored by regular mojgjhhj.  fjrtalddgdfgdfgs, and not relied
