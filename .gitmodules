@@ -1,0 +1,4 @@
+[submodule "sub-private/sub-private_stain-DAPI_chunk-01_SPIM.ome.zarr"]
+	path = sub-private/sub-private_stain-DAPI_chunk-01_SPIM.ome.zarr
+	url = https://github.com/dandizarrs/6c00cd0d-2607-4c08-90d5-a5242dc9bf46
+	datalad-id = 3ec5d66c-d797-4967-9931-2d362609c74f
