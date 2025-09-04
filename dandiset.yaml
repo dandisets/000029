@@ -19,6 +19,9 @@ assetsSummary:
   - identifier: RRID:SCR_015242
     name: Neurodata Without Borders (NWB)
     schemaKey: StandardsType
+  - identifier: DOI:10.25504/FAIRsharing.9af712
+    name: OME/NGFF Standard
+    schemaKey: StandardsType
   measurementTechnique:
   - name: analytical technique
     schemaKey: MeasurementTechniqueType
@@ -28,9 +31,9 @@ assetsSummary:
     schemaKey: MeasurementTechniqueType
   - name: behavioral technique
     schemaKey: MeasurementTechniqueType
-  numberOfBytes: 39011876
-  numberOfFiles: 5
-  numberOfSubjects: 5
+  numberOfBytes: 39036383
+  numberOfFiles: 6
+  numberOfSubjects: 6
   schemaKey: AssetsSummary
   species:
   - identifier: http://purl.obolibrary.org/obo/NCBITaxon_9544
@@ -64,12 +67,14 @@ license:
 manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/000029/versions/draft/assets/
 name: Test dataset for development purposes
-protocol: []
-relatedResource: []
+relatedResource:
+- identifier: DANDI:000029/0.1.2
+  relation: dcite:IsDerivedFrom
+  schemaKey: Resource
+  url: https://dandiarchive.org/dandiset/000029/0.231017.1959
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.4.4
-studyTarget: []
 url: https://dandiarchive.org/dandiset/000029/draft
 version: draft
 wasGeneratedBy: []
