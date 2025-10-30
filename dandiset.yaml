@@ -31,9 +31,9 @@ assetsSummary:
     schemaKey: MeasurementTechniqueType
   - name: behavioral technique
     schemaKey: MeasurementTechniqueType
-  numberOfBytes: 39036383
-  numberOfFiles: 6
-  numberOfSubjects: 6
+  numberOfBytes: 39017591
+  numberOfFiles: 5
+  numberOfSubjects: 5
   schemaKey: AssetsSummary
   species:
   - identifier: http://purl.obolibrary.org/obo/NCBITaxon_9544
@@ -41,9 +41,6 @@ assetsSummary:
     schemaKey: SpeciesType
   - identifier: http://purl.obolibrary.org/obo/NCBITaxon_10090
     name: Mus musculus - House mouse
-    schemaKey: SpeciesType
-  - identifier: http://purl.obolibrary.org/obo/NCBITaxon_10116
-    name: Rattus norvegicus - Norway rat
     schemaKey: SpeciesType
   variableMeasured:
   - ProcessingModule
