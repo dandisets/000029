@@ -2,7 +2,7 @@
 # It can be edited online at https://dandiarchive.org/dandiset/000029
 # and obtained from the dandiarchive.
 '@context': 
-  https://raw.githubusercontent.com/dandi/schema/master/releases/0.4.4/context.json
+  https://raw.githubusercontent.com/dandi/schema/master/releases/0.7.0/context.json
 about: []
 access:
 - contactPoint:
@@ -50,7 +50,7 @@ assetsSummary:
   - ElectrodeGroup
   - BehavioralEvents
   - Units
-citation: Test dataset for development purposes.., (2025). (Version draft) [Data set].
+citation: Test dataset for development purposes.., (2026). (Version draft) [Data set].
   DANDI Archive. https://dandiarchive.org/dandiset/000029/draft
 contributor: []
 dateCreated: '2020-07-31T16:44:32.094000+00:00'
@@ -74,7 +74,7 @@ relatedResource:
   url: https://dandiarchive.org/dandiset/000029/0.231017.1959
 repository: https://dandiarchive.org
 schemaKey: Dandiset
-schemaVersion: 0.4.4
+schemaVersion: 0.7.0
 url: https://dandiarchive.org/dandiset/000029/draft
 version: draft
 wasGeneratedBy: []
